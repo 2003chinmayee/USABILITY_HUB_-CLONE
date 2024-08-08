@@ -15,9 +15,8 @@ CSS: Stylesheet language used to describe the presentation of the website, inclu
 🚀 Getting Started
 To get a local copy up and running, follow these steps:
 
+
 Clone the repository:
-
-
 Copy code
 git clone https://github.com/2003chinmayee/USABILITY_HUB_-CLONE.git
 Open the project:
