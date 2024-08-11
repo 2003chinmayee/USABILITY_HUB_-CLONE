@@ -1,29 +1,23 @@
 
 #  UsabilityHub Clone
 
-🚀 Live Demo Now Available!
-
 
 
 ## 📜 Description
 
 Welcome to the UsabilityHub Clone project! This project is a frontend replica of the popular UsabilityHub website, created using HTML and CSS. The goal of this project is to demonstrate my skills in web development by accurately recreating the look and feel of UsabilityHub.
 
-##  🌟 Future Enhancements
-🕹️ Interactive Elements: Adding JavaScript to make the website more interactive.
+##   Future Enhancements
+- Interactive Elements: Adding JavaScript to make the website more interactive.
 
-🌐 Backend Integration: Connecting to a backend service to make it a fully functional web application.
+- Backend Integration: Connecting to a backend service to make it a fully functional web application.
 
-📄 More Pages: Expanding the project to include additional pages and features of UsabilityHub.
+- More Pages: Expanding the project to include additional pages and features of UsabilityHub.
 
-## 🛠 Technologies Used
-1.HTML: Markup language used to structure the content of the website.
+##  Technologies Used
+- HTML: Markup language used to structure the content of the website.
 
-2.CSS: Stylesheet language used to describe the presentation of the website, including layout, colors, and fonts
-
-
-## Hi i am chinmayee 😄👩‍💻
-
+- CSS: Stylesheet language used to describe the presentation of the website, including layout, colors, and fonts
 
 
 ## 🔗 Links
